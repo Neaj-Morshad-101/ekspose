@@ -1,2 +1,2 @@
 # ekspose
-This custom controller (ekspose) expose any deployment by creating service and ingress. 
+This custom controller (ekspose) exposes any deployment by creating service and ingress. 
